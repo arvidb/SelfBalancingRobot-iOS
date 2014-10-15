@@ -1,11 +1,11 @@
 SelfBalancingRobot-iOS
 ==================
 
-This is a companion app for the SelfBalancingRobot-AVR project.
+iOS companion app for the SelfBalancingRobot-AVR project.
 
 Requirement
 ===========
-
+An iPhone/iPod with iOS 7 or later.
 
 QuickStart
 ==========
